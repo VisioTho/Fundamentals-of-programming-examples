@@ -1,0 +1,16 @@
+C:\Users\VISION\source\repos\Operators\Operators\bin\Debug\net8.0-windows\Operators.exe
+C:\Users\VISION\source\repos\Operators\Operators\bin\Debug\net8.0-windows\Operators.deps.json
+C:\Users\VISION\source\repos\Operators\Operators\bin\Debug\net8.0-windows\Operators.runtimeconfig.json
+C:\Users\VISION\source\repos\Operators\Operators\bin\Debug\net8.0-windows\Operators.dll
+C:\Users\VISION\source\repos\Operators\Operators\bin\Debug\net8.0-windows\Operators.pdb
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.Form1.resources
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.vbproj.GenerateResource.cache
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.AssemblyInfoInputs.cache
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.AssemblyInfo.vb
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.vbproj.CoreCompileInputs.cache
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.dll
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\refint\Operators.dll
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.pdb
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\Operators.genruntimeconfig.cache
+C:\Users\VISION\source\repos\Operators\Operators\obj\Debug\net8.0-windows\ref\Operators.dll

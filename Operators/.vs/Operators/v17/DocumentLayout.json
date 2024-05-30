@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISION\\source\\repos\\Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36D2CFB-6D17-4731-A60F-7280568876F2}|Operators\\Operators.vbproj|c:\\users\\vision\\source\\repos\\operators\\operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E36D2CFB-6D17-4731-A60F-7280568876F2}|Operators\\Operators.vbproj|solutionrelative:operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36D2CFB-6D17-4731-A60F-7280568876F2}|Operators\\Operators.vbproj|c:\\users\\vision\\source\\repos\\operators\\operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E36D2CFB-6D17-4731-A60F-7280568876F2}|Operators\\Operators.vbproj|solutionrelative:operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\VISION\\source\\repos\\Operators\\Operators\\Form1.vb",
+              "RelativeDocumentMoniker": "Operators\\Form1.vb",
+              "ToolTip": "C:\\Users\\VISION\\source\\repos\\Operators\\Operators\\Form1.vb",
+              "RelativeToolTip": "Operators\\Form1.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T19:16:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\VISION\\source\\repos\\Operators\\Operators\\Form1.vb",
+              "RelativeDocumentMoniker": "Operators\\Form1.vb",
+              "ToolTip": "C:\\Users\\VISION\\source\\repos\\Operators\\Operators\\Form1.vb [Design]",
+              "RelativeToolTip": "Operators\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T19:07:50.037Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

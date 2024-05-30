@@ -1,0 +1,16 @@
+C:\Users\VISION\source\repos\CircleArea\CircleArea\bin\Debug\net8.0-windows\CircleArea.exe
+C:\Users\VISION\source\repos\CircleArea\CircleArea\bin\Debug\net8.0-windows\CircleArea.deps.json
+C:\Users\VISION\source\repos\CircleArea\CircleArea\bin\Debug\net8.0-windows\CircleArea.runtimeconfig.json
+C:\Users\VISION\source\repos\CircleArea\CircleArea\bin\Debug\net8.0-windows\CircleArea.dll
+C:\Users\VISION\source\repos\CircleArea\CircleArea\bin\Debug\net8.0-windows\CircleArea.pdb
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.Form1.resources
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.vbproj.GenerateResource.cache
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.AssemblyInfoInputs.cache
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.AssemblyInfo.vb
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.vbproj.CoreCompileInputs.cache
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.dll
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\refint\CircleArea.dll
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.pdb
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\CircleArea.genruntimeconfig.cache
+C:\Users\VISION\source\repos\CircleArea\CircleArea\obj\Debug\net8.0-windows\ref\CircleArea.dll
